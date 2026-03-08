@@ -23,4 +23,25 @@ This tool helps extract those changes and generate a recoverable structure that 
 - Windows Forms
 - Git integration for backup storage
 
-## Project Structure
+## How to Use
+
+1. Clone the repository
+2. Open the solution in Visual Studio
+3. 3. Build and run the project
+
+4. Use the interface to select the TFS workspace and export local changesets.
+
+## Use Cases
+
+- Recover local changes before switching branches
+- Backup development work before workspace cleanup
+- Export pending changes for migration
+- Preserve code before repository restructuring
+
+## Disclaimer
+
+This project is intended as a **developer utility tool** and may require adjustments depending on the specific TFS workspace configuration.
+
+## Author
+
+Jordan Benavides
