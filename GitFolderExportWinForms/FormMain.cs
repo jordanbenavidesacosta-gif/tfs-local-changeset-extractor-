@@ -269,5 +269,10 @@ namespace GitFolderExportWinForms
             txtAuthor.AutoCompleteSource = AutoCompleteSource.CustomSource;
             txtAuthor.AutoCompleteCustomSource = src;
         }
+
+        private void lblOut_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

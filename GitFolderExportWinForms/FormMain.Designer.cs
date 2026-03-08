@@ -103,16 +103,16 @@ namespace GitFolderExportWinForms
             this.lblPath.AutoSize = true;
             this.lblPath.Location = new System.Drawing.Point(4, 105);
             this.lblPath.Name = "lblPath";
-            this.lblPath.Size = new System.Drawing.Size(145, 13);
+            this.lblPath.Size = new System.Drawing.Size(101, 13);
             this.lblPath.TabIndex = 7;
-            this.lblPath.Text = "Ruta (ej: EquiSoftIncomercio)";
+            this.lblPath.Text = "Carpeta a recuperar";
             this.lblPath.Click += new System.EventHandler(this.lblPath_Click);
             // 
             // txtPath
             // 
-            this.txtPath.Location = new System.Drawing.Point(155, 102);
+            this.txtPath.Location = new System.Drawing.Point(108, 102);
             this.txtPath.Name = "txtPath";
-            this.txtPath.Size = new System.Drawing.Size(535, 20);
+            this.txtPath.Size = new System.Drawing.Size(582, 20);
             this.txtPath.TabIndex = 8;
             // 
             // lblOut
@@ -120,9 +120,10 @@ namespace GitFolderExportWinForms
             this.lblOut.AutoSize = true;
             this.lblOut.Location = new System.Drawing.Point(4, 131);
             this.lblOut.Name = "lblOut";
-            this.lblOut.Size = new System.Drawing.Size(74, 13);
+            this.lblOut.Size = new System.Drawing.Size(99, 13);
             this.lblOut.TabIndex = 9;
-            this.lblOut.Text = "Carpeta salida";
+            this.lblOut.Text = "Carpeta local salida";
+            this.lblOut.Click += new System.EventHandler(this.lblOut_Click);
             // 
             // txtOut
             // 
@@ -136,7 +137,7 @@ namespace GitFolderExportWinForms
             // btnBrowseOut
             // 
             this.btnBrowseOut.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnBrowseOut.Location = new System.Drawing.Point(696, 97);
+            this.btnBrowseOut.Location = new System.Drawing.Point(694, 125);
             this.btnBrowseOut.Name = "btnBrowseOut";
             this.btnBrowseOut.Size = new System.Drawing.Size(75, 23);
             this.btnBrowseOut.TabIndex = 11;
@@ -146,7 +147,7 @@ namespace GitFolderExportWinForms
             // 
             // btnRun
             // 
-            this.btnRun.Location = new System.Drawing.Point(696, 125);
+            this.btnRun.Location = new System.Drawing.Point(615, 169);
             this.btnRun.Name = "btnRun";
             this.btnRun.Size = new System.Drawing.Size(75, 23);
             this.btnRun.TabIndex = 16;
@@ -156,7 +157,7 @@ namespace GitFolderExportWinForms
             // 
             // btnOpenOut
             // 
-            this.btnOpenOut.Location = new System.Drawing.Point(696, 154);
+            this.btnOpenOut.Location = new System.Drawing.Point(694, 169);
             this.btnOpenOut.Name = "btnOpenOut";
             this.btnOpenOut.Size = new System.Drawing.Size(75, 23);
             this.btnOpenOut.TabIndex = 17;
