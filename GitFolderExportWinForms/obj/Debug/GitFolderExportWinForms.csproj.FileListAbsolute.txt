@@ -1,0 +1,8 @@
+C:\Users\BenavidesJordan\Downloads\Proyecto auto changesets\GitFolderExport_WinForms_net48\GitFolderExportWinForms\bin\Debug\GitFolderExportWinForms.exe
+C:\Users\BenavidesJordan\Downloads\Proyecto auto changesets\GitFolderExport_WinForms_net48\GitFolderExportWinForms\bin\Debug\GitFolderExportWinForms.pdb
+C:\Users\BenavidesJordan\Downloads\Proyecto auto changesets\GitFolderExport_WinForms_net48\GitFolderExportWinForms\obj\Debug\GitFolderExportWinForms.csproj.AssemblyReference.cache
+C:\Users\BenavidesJordan\Downloads\Proyecto auto changesets\GitFolderExport_WinForms_net48\GitFolderExportWinForms\obj\Debug\GitFolderExportWinForms.FormMain.resources
+C:\Users\BenavidesJordan\Downloads\Proyecto auto changesets\GitFolderExport_WinForms_net48\GitFolderExportWinForms\obj\Debug\GitFolderExportWinForms.csproj.GenerateResource.cache
+C:\Users\BenavidesJordan\Downloads\Proyecto auto changesets\GitFolderExport_WinForms_net48\GitFolderExportWinForms\obj\Debug\GitFolderExportWinForms.csproj.CoreCompileInputs.cache
+C:\Users\BenavidesJordan\Downloads\Proyecto auto changesets\GitFolderExport_WinForms_net48\GitFolderExportWinForms\obj\Debug\GitFolderExportWinForms.exe
+C:\Users\BenavidesJordan\Downloads\Proyecto auto changesets\GitFolderExport_WinForms_net48\GitFolderExportWinForms\obj\Debug\GitFolderExportWinForms.pdb
